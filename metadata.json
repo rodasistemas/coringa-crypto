@@ -5,7 +5,8 @@
   "data": {
     "name": "CoringaCoin",
     "symbol": "COR1",
-    "uri": "https://github.com/rodasistemas/coringa-crypto/raw/main/metadata.json",
+    "uri": "https://raw.githubusercontent.com/rodasistemas/coringa-crypto/main/metadata.json",
+    "image": "https://raw.githubusercontent.com/rodasistemas/coringa-crypto/main/logo.jpg",
     "sellerFeeBasisPoints": 110,
     "creators": [
       {
