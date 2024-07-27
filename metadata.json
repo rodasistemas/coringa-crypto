@@ -1,5 +1,23 @@
 {
-    "name": "JokerMoney",
-    "symbol": "JOKM",
-    "image": "https://raw.githubusercontent.com/rodasistemas/coringa-crypto/main/logo.jpg"
+  "key": 4,
+  "updateAuthority": "J1fF2yXs5fiPobotWitH6ibr6WnhAqYg84h7YSn1dxrG",
+  "mint": "414TGcdabPbhtncZArCaWVHpZ67mFR2c9LgoGyaeyeNW",
+  "data": {
+    "name": "CoringaCoin",
+    "symbol": "COR1",
+    "uri": "https://github.com/rodasistemas/coringa-crypto/raw/main/metadata.json",
+    "sellerFeeBasisPoints": 110,
+    "creators": [
+      {
+        "address": "J1fF2yXs5fiPobotWitH6ibr6WnhAqYg84h7YSn1dxrG",
+        "verified": 1,
+        "share": 100
+      }
+    ]
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 1,
+  "editionNonce": 255,
+  "tokenStandard": 1,
+  "type": "metaplex"
 }
