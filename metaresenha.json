@@ -1,0 +1,15 @@
+{
+    "name": "Resenha Coin",
+    "symbol": "RESCOIN",
+    "image": "https://raw.githubusercontent.com/rodasistemas/coringa-crypto/main/logor.png",
+    "description": "",
+    "extensions": {
+    },
+    "tags": [
+        "FanToken"
+    ],
+    "creator": {
+        "name": "DEXLAB MINTING LAB",
+        "site": "https://www.dexlab.space"
+    }
+}
