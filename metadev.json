@@ -1,0 +1,13 @@
+{
+    "name": "Roda Coin",
+    "symbol": "RODC",
+    "uri": "https://raw.githubusercontent.com/rodasistemas/coringa-crypto/main/metadev.json",
+    "image": "https://raw.githubusercontent.com/rodasistemas/coringa-crypto/main/logo.jpg",
+    "creators": [
+      {
+        "address": "J1fF2yXs5fiPobotWitH6ibr6WnhAqYg84h7YSn1dxrG",
+        "verified": 1,
+        "share": 100
+      }
+    ]
+  }
